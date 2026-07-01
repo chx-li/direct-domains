@@ -2,3 +2,5 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,bing.cn
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,microsoft.com

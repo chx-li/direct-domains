@@ -6,3 +6,12 @@ DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,global.aa-rt.sharepoint.com
+DOMAIN-SUFFIX,189672-ipv4fdsmte.gr.global.aa-rt.sharepoint.com

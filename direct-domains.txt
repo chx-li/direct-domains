@@ -46,3 +46,4 @@ DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,immersivetranslate.com

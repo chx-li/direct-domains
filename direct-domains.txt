@@ -48,4 +48,9 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,overleaf.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,clarivate.net
 

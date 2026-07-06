@@ -55,3 +55,4 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,clarivate.net
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,ocrid.org
+DOMAIN-SUFFIX,arxiv.org
